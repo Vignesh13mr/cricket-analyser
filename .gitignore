@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+cricket_database/cricket_all_tables.duckdb
